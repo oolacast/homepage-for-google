@@ -1,0 +1,152 @@
+
+body{
+    margin:0;
+}
+
+.googlelogo{
+
+    position:absolute;
+    margin:auto;
+    top:25%;
+    left:40%;
+}
+
+.list1 a{
+    float:left;
+    text-decoration:none;
+    padding:10px;
+    font-size:12px;
+    color:black;
+}
+
+.list1{
+    list-style-type: none;
+}
+
+.butt{
+ height:35px;
+ width:75px;
+ background-color:rgb(15, 84, 211);
+ color:white;   
+ border:none;
+}
+
+.list2 a{
+    text-decoration:none;
+    font-size:12px;
+    color:black;
+    float:right;
+    padding:10px;
+}
+
+.list2{
+    list-style-type:none;
+}
+
+#list-logo{
+
+    width:30px;
+    height:30px;
+}
+
+a:hover{
+text-decoration: underline;
+     
+}
+
+.item1{
+    margin-top:5px;
+}
+
+.search{
+ 
+ position:absolute;
+ top:45%;
+ left:30%;
+ width:40%;    
+ border-radius:20px;
+ height:35px;
+ border:1px solid rgb(214, 206, 206);
+ padding-left:45px;
+}
+
+.search-icon{
+    position:absolute;
+    top:46%;
+    width:30px;
+    height:30px;
+    left:31%;
+}
+
+.butt1{
+  position:absolute;
+  top:55%;
+  left:40%;
+  border:none;
+  height:37px;
+  border-radius:4px;
+  background-color:lightgrey;
+}
+
+.butt2{
+    position:absolute;
+    top:55%;
+    left:50%;
+    border:none;
+    height:37px;
+    border-radius:4px;
+    background-color:lightgray;
+}
+
+.butt1:hover{
+    border:1px solid black;
+    color:black;
+    background-color:white;
+}
+
+.butt2:hover{
+    border:1px solid black;
+    color:black;
+    background-color:white;
+}
+
+footer{
+    display:flex;
+    font-size:12px;
+    position:absolute;
+    bottom:0%;
+    background-color:lightgrey;
+    height:35px;
+    width:100%;
+    align-items:center;
+    
+}
+
+.item3{
+    padding-left:30px;
+}
+
+.item2{
+    padding-left:30px;
+}
+
+.item4{
+    padding-left:30px;
+}
+
+.item5{
+    padding-left:800px;
+}
+
+.item6{
+    padding-left:30px;
+}
+
+.item7{
+    padding-left:30px;
+}
+
+footer a{
+    text-decoration:none;
+    color:black;
+}

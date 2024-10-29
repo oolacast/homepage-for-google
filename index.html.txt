@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+      <img  class ="googlelogo" src="images/google_logo.png" alt="image of google logo">
+    
+    <ul class="list1">
+        <li><a href=#>About</a></li>
+        <li><a href=#>Store</a></li>
+    </ul>
+    <ul class="list2">
+       <li><a href=#><button class="butt">sign in</button></a></li>
+       <li><a href=#><img id="list-logo" src="images/google-apps-list-logo.png"alt="google app list logo"></a></li>
+       <li><a class="item1" href=#>Images</a></li>
+       <li><a class="item1" href=#>Gmail</a></li>
+    </ul>
+
+    <input class="search" type="text">
+    <img class="search-icon" src="images/search-icon.png" alt="search image">
+    
+    <button class="butt1">Google search</button>
+    <button class="butt2">I'm feeling lucky</button>
+
+    <footer>
+      <div class="item2"><a href=#>Advertising</a></div>
+      <div class="item3"><a href=#>Business</a></div>
+      <div class="item4"><a href=#>How search works</a></div>
+      <div class="item5"><a href=#>Privacy</a></div>
+      <div class="item6"><a href=#>Terms</a></div>
+      <div class="item7"><a href=#>Settings</a></div>
+
+    </footer>
+
+
+</body>
+</html>
